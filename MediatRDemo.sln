@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRDemo", "MediatRDemo\MediatRDemo.csproj", "{CAE473D5-E8E8-4C22-AB51-CA665F7C60BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.API", "MediatR.API\MediatR.API.csproj", "{84FFA54E-6A85-4866-9194-EF4DCBD3934E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE473D5-E8E8-4C22-AB51-CA665F7C60BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE473D5-E8E8-4C22-AB51-CA665F7C60BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE473D5-E8E8-4C22-AB51-CA665F7C60BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE473D5-E8E8-4C22-AB51-CA665F7C60BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FFA54E-6A85-4866-9194-EF4DCBD3934E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FFA54E-6A85-4866-9194-EF4DCBD3934E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FFA54E-6A85-4866-9194-EF4DCBD3934E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FFA54E-6A85-4866-9194-EF4DCBD3934E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEC56B0-3B28-4554-9768-B5605925C211}
+	EndGlobalSection
+EndGlobal
